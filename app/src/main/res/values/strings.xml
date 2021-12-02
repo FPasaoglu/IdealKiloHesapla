@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Ideal Kilo Hesapla</string>
+    <string name="ideal_kilo_nasıl_hesaplanir">İdeal kilo boyunuz ve cinsiyetiniz dikkate alındığında sağlıklı bir yaşam sürdürebilmeniz için
+        gerekli olan kilodur. Esasen her ne kadar bir ideal kilo hesaplanmaktaysa da kilonuzun tam olarak hesaplanan ideal kiloyla aynı olması gerekmez. Asıl önemli olan kilonuzun normal kabul edilen değer aralığında olmasıdır. Normal kilo değer aralığı vücut kitle endeksinin 18,5 ila 25 aralığında olduğu bütün ağırlıkları kapsamaktadır. Vücut kitle endeksi hesaplaması ve değer aralıkları hakkında daha detaylı bilgiyi Vucüt Kitle Endeksi Hesaplama sayfamızda bulabilirsiniz.
+İdeal kilo nasıl hesaplanmaktadır?
+İdeal kilo hesaplamasıyla ilgili literatürde yapılmış çeşitli çalışmalar bulunmaktadır. Bunlardan en yaygın kullanılanı Divine tarafından önerilen formül olup bu sayfada da bu formüle göre ideal kilo hesaplanmatadır:
+
+Kadınlar İçin:      İdeal Kilo = 45,5 + (2,3 / 2,54) x (boy(cm) - 152,4)
+
+Erkekler İçin:      İdeal Kilo = 50 + (2,3 / 2,54) x (boy(cm) - 152,4)
+
+Görüldüğü gibi aynı boyda olan bir erkeğin bir kadından 4,5 kilo daha ağır olması beklenmektedir. Bu durum, kadınların yağ oranının erkeklerden daha yüksek olması ve yağın kasa göre daha hafif gelmesinden kaynaklanmaktadır.
+
+Bununla birlikte vucüt kitle endeksi hesaplanırken ve buna bağlı olarak normal kilo aralığı belirlenirken kadın erkek farkı gözetilmemektedir. Bundan dolayı kadınların ideal kilosu normal kilo aralığının alt sınırına, erkeklerin ideal kilosuysa normal kilo aralığının üst sınırına daha yakındır.
+            </string>
+
 </resources>
